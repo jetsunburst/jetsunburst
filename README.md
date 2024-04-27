@@ -1,7 +1,6 @@
-<h2> Hey there! I'm Gitesh <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h3 align="center">Hey there!, I'm Gitesh Gund - aka <a href="https://www.linkedin.com/in/giteshgund/">jetSunburst <a><img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="55px"> </h3>
 
-
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> About Me <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="45px">  </h3>
 
 - 🔭 &nbsp; AI and Security Enthusiast 
 <h3>🛠 Tech Stack</h3>
@@ -27,7 +26,12 @@
 # COMMIT STATUS
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jetsunburst&theme=highcontrast)](https://git.io/streak-stats)
 
-<h3> 🤝 Connect with Me </h3>
+
+<h2 align="center"> Connect With Me  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1oemNrc2l1dXhheTRiNGRxeGpyMjBxNXczdDE1Z2F1aG82YjFoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ShUecWUOFYPaglyk5z/giphy.gif" width="50"></h2>
+
+
+<h3 >🤝 Connect with Me </h3>
+
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/gitesh_gund/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
