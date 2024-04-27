@@ -18,46 +18,44 @@
   <a href="https://www.linkedin.com/in/giteshgund/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue" alt="LinkedIn"></a>
 </div>
 
-
-<div>
+<div align="left">
+  <h2>Skills and Technologies</h2>
+  <h3>Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=py,java,go,js,c,cpp,bash,powershell,html" alt="Programming Languages" />
   
-## Skills and Technologies
+  <h3>DevOps and Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,jenkins,linux,windows" alt="DevOps and Infrastructure" />
   
-#### Programming Languages
-![My Skills](https://skillicons.dev/icons?i=py,java,go,js,c,cpp,bash,powershell,html)
+  <h3>Monitoring and Operations</h3>
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Monitoring and Operations" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="Kibana" width=47 />
+  
+  <h3>Machine Learning and Data Science</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,anaconda" alt="Machine Learning and Data Science" />
+  
+  <h3>Cloud Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" alt="Cloud Platforms" />
+  
+  <h3>Web Development Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=flask,spring,nodejs" alt="Web Development Frameworks" />
+  
+  <h3> Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" alt="Databases" />
 
-#### DevOps and Infrastructure, CI/CD 
-![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,terraform,jenkins,linuxwindows)
+  <h3>Version Control</h3>
+  <img src="https://skillicons.dev/icons?i=git" alt="Version Control" />
 
-#### Machine Learning and Data Science
-![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,anaconda)
+  <h3>Build and Dependency Management</h3>
+  <img src="https://skillicons.dev/icons?i=gradle,maven,npm" alt="Build and Dependency Management" />
 
-#### Cloud Platforms
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)
+  <h3>Messaging Systems</h3>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Messaging Systems" />
 
-#### Web Development Frameworks
-![My Skills](https://skillicons.dev/icons?i=flask,spring,nodejs)
+  <h3>IDE and Editors</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse" alt="IDE and Editors" />
 
-#### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)
-
-#### Version Control
-![My Skills](https://skillicons.dev/icons?i=git)
-
-#### Build and Dependency Management
-![My Skills](https://skillicons.dev/icons?i=gradle,maven,npm)
-
-#### Monitoring and Operations
-![My Skills](https://skillicons.dev/icons?i=grafana)
-
-#### Messaging Systems
-![My Skills](https://skillicons.dev/icons?i=kafka)
-
-#### IDE and Editors
-![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse)
-
-#### Miscellaneous
-![My Skills](https://skillicons.dev/icons?i=postman)
+  <h3>Miscellaneous</h3>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Miscellaneous" />
 </div>
 
 #
