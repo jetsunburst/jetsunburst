@@ -3,11 +3,11 @@
 <h3>About Me <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="45px"></h3>
 
 - 🔭 &nbsp; I'm currently exploring the frontiers of <strong>AI and Cybersecurity</strong> 🤖🔒
-- 🌱 &nbsp; Constantly learning about <strong>deep learning</strong>, <strong>machine learning</strong>, <strong>cybersecurity</strong>, and <strong>DevSecOps</strong>.
+- 🌱 &nbsp; Constantly learning about <strong>Deep learning</strong>, <strong>Machine learning</strong>, <strong>Cybersecurity</strong>, and <strong>DevSecOps</strong>.
 - 🛡️ &nbsp; Committed to <strong>Shift Left</strong> security, proactively integrating security early in development to effectively identify and mitigate risks.
 - 💡 &nbsp; Passionate about innovating and applying technology to automate and solve real-world problems.
 - 🚀 &nbsp; Aspiring to work on projects that blend AI with security to create smarter, safer digital environments.
-- 📚 &nbsp; Forever a student in the vast world of <strong>software development</strong>, <strong>AI</strong> and <strong>ethical hacking</strong>.
+- 📚 &nbsp; Forever a student in the vast world of <strong>Software development</strong>, <strong>AI</strong> and <strong>Ethical hacking</strong>.
 - 🤝 &nbsp;Looking to collaborate on projects involving AI, cybersecurity, automation, and anything that's on the cutting edge of technology.
 - 🎨 &nbsp; When I'm not coding, I'm probably meditating, gaming, watching anime, working out, swimming, or diving into a novel.
 - ✉️ &nbsp; Feel free to reach out via [email](mailto:giteshgund1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/giteshgund/).
