@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I'm currently exploring the frontiers of <strong>AI and Cybersecurity</strong> 🤖🔒
 - 🌱 &nbsp; Constantly learning about <strong>deep learning</strong>, <strong>machine learning</strong>, <strong>cybersecurity</strong>, and <strong>DevSecOps</strong>.
-- 🛡️ &nbsp; Committed to <strong>Shift Left</strong> security practices—integrating security earlier in the development process to identify and mitigate risks effectively.
+- 🛡️ &nbsp; Committed to <strong>Shift Left</strong> security, proactively integrating security early in development to effectively identify and mitigate risks.
 - 💡 &nbsp; Passionate about innovating and applying technology to automate and solve real-world problems.
 - 🚀 &nbsp; Aspiring to work on projects that blend AI with security to create smarter, safer digital environments.
 - 📚 &nbsp; Forever a student in the vast world of <strong>software development</strong>, <strong>AI</strong> and <strong>ethical hacking</strong>.
