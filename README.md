@@ -1,4 +1,4 @@
-<h2 align="center">Hey there!, I'm <a href="https://www.linkedin.com/in/giteshgund/"> Gitesh Gund <a><img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="55px"> </h2> 
+<h2 align="center">Hey there!, I'm <a href="https://www.linkedin.com/in/giteshgund/"> Gitesh <a><img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="55px"> </h2> 
   
 
 
