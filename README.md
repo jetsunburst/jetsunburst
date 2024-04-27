@@ -1,4 +1,4 @@
-<h3 align="center">Hey there!, I'm Gitesh Gund - aka <a href="https://www.linkedin.com/in/giteshgund/">jetSunburst <a><img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="50px"> </h3> 
+<h2 align="center">Hey there!, I'm <a href="https://www.linkedin.com/in/giteshgund/"> Gitesh Gund <a><img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="55px"> </h2> 
 <hr style="border: 0; height: 2px; background-color: #0080; margin-top: 10px; margin-bottom: 10px;">
 
 <h3> About Me <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="45px">  </h3> 
