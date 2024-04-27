@@ -19,7 +19,7 @@
 </div>
 
 <div align="left">
-  <h2>Skills and Technologies</h2>
+  <h2>Skills and Technologies <img src="https://media.giphy.com/media/3fNmJ20ErpkjK/giphy.gif" width="45px"></h2>
   <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=py,java,go,js,c,cpp,bash,powershell,html" alt="Programming Languages" />
   
