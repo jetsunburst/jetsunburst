@@ -83,9 +83,9 @@
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=jetsunburst&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-  </p>
+ <br>
+<img src="https://komarev.com/ghpvc/?username=jetsunburst&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  
 </div>
 
 
