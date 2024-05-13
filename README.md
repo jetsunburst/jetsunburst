@@ -13,10 +13,17 @@
 - ✉️ &nbsp; Feel free to reach out via [email](mailto:giteshgund1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/giteshgund/).
 
 <div align="center">
-  <a href="https://github.com/jetsunburst"><img src="https://img.shields.io/github/followers/jetsunburst?label=follow&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/giteshgund"><img src="https://img.shields.io/twitter/follow/giteshgund?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/giteshgund/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/jetsunburst">
+    <img src="https://img.shields.io/github/followers/jetsunburst?label=follow&style=social" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/giteshgund">
+    <img src="https://img.shields.io/twitter/follow/giteshgund?label=Twitter&style=social" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/giteshgund/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
 
 <h2 >Skills and Technologies <img src="https://media.giphy.com/media/3fNmJ20ErpkjK/giphy.gif" width="45px"></h2>
 <div align="left">
