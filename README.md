@@ -74,7 +74,7 @@
 <a href="https://twitter.com/giteshgund" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter" height="30" width="40"></a>
 <a href="https://www.linkedin.com/in/giteshgund/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
 <a href="https://www.facebook.com/giteshgund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"></a>
-<a href="https://www.instagram.com/gitesh_gund_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
+<a href="https://www.instagram.com/gitesh.gund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
 <a href="https://api.whatsapp.com/send/?phone=&text&app_absent=0&lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"></a>
 <a href="https://github.com/jetsunburst" target="blank"><img align="center" src="https://github.com/jetsunburst/jetsunburst/assets/91735941/bae0afd8-5bcb-4e4d-8bd5-f8915e06e2b4" alt="GitHub" height="30" width="40"></a>
 </div>
