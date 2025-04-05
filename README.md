@@ -3,11 +3,11 @@
 <h2>About Me <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="45px"></h2>
 
 - 🔐 &nbsp; Passionate about <strong>Application Security</strong> and <strong>backend development</strong>, aiming to create robust and secure software solutions.  
-- 🌱 &nbsp; Continuously enhancing skills in <strong>Application Security</strong>, <strong>DevSecOps</strong>, <strong>backend technologies</strong>, and <strong>AI integration</strong>.  
+- 🌱 &nbsp; Continuously enhancing skills in <strong>Application Security</strong>, <strong>DevSecOps</strong>, <strong>Backend technologies</strong>, and <strong>AI integration</strong>.  
 - 🛡️ &nbsp; Experienced in implementing <strong>Shift Left</strong> security practices, embedding proactive measures early in the development lifecycle.  
 - 💻 &nbsp; Proficient in <strong>Java</strong>, <strong>Python</strong>, and <strong>Go</strong>, with a strong focus on building scalable and maintainable backend systems.  
 - 🤖 &nbsp; Passionate about leveraging <strong>AI</strong>—especially <strong>deep learning</strong> and <strong>machine learning</strong>—to build intelligent systems.  
-- 🤝 &nbsp; Open to collaborating on projects involving <strong>Application Security</strong>, <strong>backend engineering</strong>, and <strong>AI-driven innovation</strong>.  
+- 🤝 &nbsp; Open to collaborating on projects involving <strong>Application Security</strong>, <strong>Backend engineering</strong>, and <strong>AI-driven innovation</strong>.  
 - 🎨 &nbsp; Outside of tech, I enjoy <strong>meditating</strong>, <strong>gaming</strong>, <strong>anime</strong>, <strong>working out</strong>, <strong>swimming</strong>, and <strong>reading</strong>.  
 - ✉️ &nbsp; Feel free to reach out via [email](mailto:giteshgund1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/giteshgund/).
 
